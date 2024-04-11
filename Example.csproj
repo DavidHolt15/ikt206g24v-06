@@ -17,4 +17,7 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.1" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.2" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include=".gitea\workflows\actions.yml" />
+  </ItemGroup>
 </Project>

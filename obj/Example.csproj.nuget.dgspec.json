@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DaviH\\RiderProjects\\ikt206g24v-05\\Example.csproj": {}
+    "C:\\Users\\Skogly\\ikt206\\ikt206g24v-06\\Example.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DaviH\\RiderProjects\\ikt206g24v-05\\Example.csproj": {
+    "C:\\Users\\Skogly\\ikt206\\ikt206g24v-06\\Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DaviH\\RiderProjects\\ikt206g24v-05\\Example.csproj",
+        "projectUniqueName": "C:\\Users\\Skogly\\ikt206\\ikt206g24v-06\\Example.csproj",
         "projectName": "Example",
-        "projectPath": "C:\\Users\\DaviH\\RiderProjects\\ikt206g24v-05\\Example.csproj",
-        "packagesPath": "C:\\Users\\DaviH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DaviH\\RiderProjects\\ikt206g24v-05\\obj\\",
+        "projectPath": "C:\\Users\\Skogly\\ikt206\\ikt206g24v-06\\Example.csproj",
+        "packagesPath": "C:\\Users\\Skogly\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Skogly\\ikt206\\ikt206g24v-06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DaviH\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Skogly\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {

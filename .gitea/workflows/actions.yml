@@ -1,0 +1,22 @@
+name: action
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: action
+        uses: docker/build-push-action@v3
+        with:
+          username: ${{ secrets.DOCKERHUB_USERNAME }}
+          password: ${{ secrets.DOCKERHUB_ACCESS_TOKEN }}
+          repository: davidholt1505/ikt206g24v-06
+          tags: latest
+          secrets: |
+            DOCKERHUB_USERNAME=davidholt1505
+            DOCKERHUB_ACCESS_TOKEN=dckr_pat_h_QXchhPL-2xdIW3nbWJU7BYB3k
