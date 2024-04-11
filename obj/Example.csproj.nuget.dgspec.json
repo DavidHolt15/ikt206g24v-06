@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Skogly\\ikt206\\ikt206g24v-06\\Example.csproj": {}
+    "C:\\Users\\DaviH\\ikt206g24v-06\\Example.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Skogly\\ikt206\\ikt206g24v-06\\Example.csproj": {
+    "C:\\Users\\DaviH\\ikt206g24v-06\\Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Skogly\\ikt206\\ikt206g24v-06\\Example.csproj",
+        "projectUniqueName": "C:\\Users\\DaviH\\ikt206g24v-06\\Example.csproj",
         "projectName": "Example",
-        "projectPath": "C:\\Users\\Skogly\\ikt206\\ikt206g24v-06\\Example.csproj",
-        "packagesPath": "C:\\Users\\Skogly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Skogly\\ikt206\\ikt206g24v-06\\obj\\",
+        "projectPath": "C:\\Users\\DaviH\\ikt206g24v-06\\Example.csproj",
+        "packagesPath": "C:\\Users\\DaviH\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DaviH\\ikt206g24v-06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Skogly\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\DaviH\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
